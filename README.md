@@ -39,13 +39,13 @@
 
 **Engineering & CAD:** [fruit-sorter-design](https://github.com/Monoga2025/fruit-sorter-design) · [solidworks-com-automation](https://github.com/Monoga2025/solidworks-com-automation) · [MecaNote](https://github.com/Monoga2025/MecaNote) · [Circuitos](https://github.com/Monoga2025/Circuitos) · [monoga-misc](https://github.com/Monoga2025/monoga-misc)
 
-**Education:** [m11 — PhysicsInk](https://github.com/Monoga2025/m11) · [tutor-dinamica-bj](https://github.com/Monoga2025/tutor-dinamica-bj) · [solucionario-mecatronica](https://github.com/Monoga2025/solucionario-mecatronica)
+**Education:** 
 
-**Business tools:** [odontologos](https://github.com/Monoga2025/odontologos) · [Contador](https://github.com/Monoga2025/Contador) · [youtube-content-os](https://github.com/Monoga2025/youtube-content-os) · [agente-hostinger](https://github.com/Monoga2025/agente-hostinger) · [voice-monoga](https://github.com/Monoga2025/voice-monoga)
+**Business tools:** [odontologos](https://github.com/Monoga2025/odontologos) · [youtube-content-os](https://github.com/Monoga2025/youtube-content-os) · [agente-hostinger](https://github.com/Monoga2025/agente-hostinger) · [voice-monoga](https://github.com/Monoga2025/voice-monoga)
 
-**More systems:** [jarvis-assistant](https://github.com/Monoga2025/jarvis-assistant) · [unab-os](https://github.com/Monoga2025/unab-os) · [monoga-agents-and-specs](https://github.com/Monoga2025/monoga-agents-and-specs) · [bike-sales](https://github.com/Monoga2025/bike-sales) · [usa-expansion](https://github.com/Monoga2025/usa-expansion) · [grupomonoga-home](https://github.com/Monoga2025/grupomonoga-home) · [us-bike-site](https://github.com/Monoga2025/us-bike-site) · [e-block-site](https://github.com/Monoga2025/e-block-site) · [cotizacion-william](https://github.com/Monoga2025/cotizacion-william) · [trycompai-crm-fork](https://github.com/Monoga2025/trycompai-crm-fork)
+**More systems:** [jarvis-assistant](https://github.com/Monoga2025/jarvis-assistant) · [unab-os](https://github.com/Monoga2025/unab-os) · [monoga-agents-and-specs](https://github.com/Monoga2025/monoga-agents-and-specs) · [usa-expansion](https://github.com/Monoga2025/usa-expansion) · [grupomonoga-home](https://github.com/Monoga2025/grupomonoga-home) · [e-block-site](https://github.com/Monoga2025/e-block-site) · [trycompai-crm-fork](https://github.com/Monoga2025/trycompai-crm-fork)
 
-**Coursework:** [unab-engineering-coursework](https://github.com/Monoga2025/unab-engineering-coursework) · [mechanics-quiz-toolkit](https://github.com/Monoga2025/mechanics-quiz-toolkit) · [cruz-ginebra-delivery](https://github.com/Monoga2025/cruz-ginebra-delivery) · [design-assets](https://github.com/Monoga2025/design-assets)
+**Coursework:** [unab-engineering-coursework](https://github.com/Monoga2025/unab-engineering-coursework) · [cruz-ginebra-delivery](https://github.com/Monoga2025/cruz-ginebra-delivery) · [design-assets](https://github.com/Monoga2025/design-assets)
 
 ## 🧰 Tech I use
 
