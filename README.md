@@ -25,15 +25,11 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Loovo](https://github.com/Monoga2025/loovo)** | AI sales automation for aesthetic & dental clinics: omni-channel CRM, n8n flows, content machine, agent orchestration. | TypeScript · n8n · Python |
-| **[Monoga OS](https://github.com/Monoga2025/monoga-os)** | My personal OS: dashboard, engineering docs, audits and a map of all my projects. | HTML · Markdown · agents |
-| **[Hackatón Vibra Plus — Refugio Yesenia](https://github.com/SamuelGuz/Hackaton-Vibra-Plus)** | Team project (with Samuel & Silvia): a WhatsApp "second brain" for an animal shelter in Bucaramanga, with biomedical monitoring and transparent QR donations. | Node · WhatsApp bot · Supabase |
-| **[Ratón Ingeniero](https://github.com/Monoga2025/tutor-mecatronica)** | 3D torsion tutor with a graded exercise engine and adaptive learning. | TypeScript · three.js · Rapier |
-| **[Maral ERP + AI](https://github.com/Monoga2025/maral-erp-ai)** | ERP built for a Colombian tech company: quotes, production, inventory, DIAN invoicing, WhatsApp and AI assistants (briefing, OCR, voice-to-expense). Plus its [website](https://github.com/Monoga2025/maral-website). | TypeScript · Prisma · AI |
-| **[monoga-erp](https://github.com/Monoga2025/monoga-erp)** | Local-first ERP with an event-sales MVP. | Fastify · React |
-| **[Content verifier](https://github.com/Monoga2025/monoga-content-verifier)** | Rule-based verifier for video scripts, 90 tests passing. | Python |
-| **[Growth Studio](https://github.com/Monoga2025/growth-studio)** | Content engine and batch demo builder for growth automation. | Python · Node |
-| **[WhatsApp AI agent (ES)](https://github.com/Monoga2025/whatsapp-ai-agent-es)** | Open-source Spanish WhatsApp agent + automation pack for local businesses. | Evolution API · n8n · Redis |
+| **[Omni Sales CRM](https://github.com/Monoga2025/omni-sales-crm)** | Omnichannel sales CRM with an AI agent: one inbox for WhatsApp, Instagram, Messenger and web chat, Kanban pipeline, flow builder, follow-up sequences and analytics. 191 tests passing. | TypeScript · React · Hono · SQLite |
+| **[Maral ERP + AI](https://github.com/Monoga2025/maral-erp-ai)** | ERP built for a Colombian telecom company: quotes, production, inventory, DIAN invoicing, WhatsApp and AI assistants (briefing, OCR, voice-to-expense). Plus its [website](https://github.com/Monoga2025/maral-website). | TypeScript · Prisma · AI |
+| **[Hackatón Vibra Plus — Refugio Yesenia](https://github.com/Monoga2025/Hackaton-Vibra-Plus)** | Team project with Samuel Guzman: a WhatsApp "second brain" for an animal shelter in Bucaramanga, with biomedical monitoring and transparent QR donations. | Node · WhatsApp bot · Supabase |
+| **[Jarvis](https://github.com/Monoga2025/jarvis-assistant)** | Personal AI assistant on Telegram (WhatsApp channel experimental): coaching, finances, tasks and calendar, with hardened tool access. | TypeScript · OpenClaw · Telegram |
+| **[Loovo](https://github.com/Monoga2025/loovo)** | The business behind the CRM: AI sales automation for aesthetic and dental clinics, sales playbooks, n8n flows and a content machine. | n8n · TypeScript · Python |
 
 ## 🛠️ More projects
 
