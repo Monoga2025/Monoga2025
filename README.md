@@ -62,6 +62,10 @@
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA1F26?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square)
 
+## 🎬 Showreel
+
+[Watch my 2026 Motion Design Showreel](https://github.com/Monoga2025/Monoga2025/releases/tag/showreel-2026)
+
 ## 🧭 How I work
 
 I direct AI agents the way an engineer directs a team: clear specs, tests first, small verified steps and honest status (🟢 only when proven end-to-end, 🟡 when partial). Every project here says what works and what doesn't.
