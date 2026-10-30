@@ -29,6 +29,7 @@
 | **[Monoga OS](https://github.com/Monoga2025/monoga-os)** | My personal OS: dashboard, engineering docs, audits and a map of all my projects. | HTML · Markdown · agents |
 | **[Hackatón Vibra Plus — Refugio Yesenia](https://github.com/SamuelGuz/Hackaton-Vibra-Plus)** | Team project (with Samuel & Silvia): a WhatsApp "second brain" for an animal shelter in Bucaramanga, with biomedical monitoring and transparent QR donations. | Node · WhatsApp bot · Supabase |
 | **[Ratón Ingeniero](https://github.com/Monoga2025/tutor-mecatronica)** | 3D torsion tutor with a graded exercise engine and adaptive learning. | TypeScript · three.js · Rapier |
+| **[Maral ERP + AI](https://github.com/Monoga2025/maral-erp-ai)** | ERP built for a Colombian tech company: quotes, production, inventory, DIAN invoicing, WhatsApp and AI assistants (briefing, OCR, voice-to-expense). Plus its [website](https://github.com/Monoga2025/maral-website). | TypeScript · Prisma · AI |
 | **[monoga-erp](https://github.com/Monoga2025/monoga-erp)** | Local-first ERP with an event-sales MVP. | Fastify · React |
 | **[Content verifier](https://github.com/Monoga2025/monoga-content-verifier)** | Rule-based verifier for video scripts, 90 tests passing. | Python |
 | **[Growth Studio](https://github.com/Monoga2025/growth-studio)** | Content engine, batch demo builder and AI receptionist core. | Python · Node |
@@ -41,6 +42,10 @@
 **Education:** [m11 — PhysicsInk](https://github.com/Monoga2025/m11) · [tutor-dinamica-bj](https://github.com/Monoga2025/tutor-dinamica-bj) · [solucionario-mecatronica](https://github.com/Monoga2025/solucionario-mecatronica)
 
 **Business tools:** [maral-os](https://github.com/Monoga2025/maral-os) · [odontologos](https://github.com/Monoga2025/odontologos) · [Contador](https://github.com/Monoga2025/Contador) · [youtube-content-os](https://github.com/Monoga2025/youtube-content-os) · [agente-hostinger](https://github.com/Monoga2025/agente-hostinger) · [voice-monoga](https://github.com/Monoga2025/voice-monoga)
+
+**More systems:** [jarvis-assistant](https://github.com/Monoga2025/jarvis-assistant) · [sales-engine](https://github.com/Monoga2025/sales-engine) · [revenue-automation](https://github.com/Monoga2025/revenue-automation) · [unab-os](https://github.com/Monoga2025/unab-os) · [monoga-agents-and-specs](https://github.com/Monoga2025/monoga-agents-and-specs) · [bike-sales](https://github.com/Monoga2025/bike-sales) · [usa-expansion](https://github.com/Monoga2025/usa-expansion) · [grupomonoga-home](https://github.com/Monoga2025/grupomonoga-home) · [us-bike-site](https://github.com/Monoga2025/us-bike-site) · [e-block-site](https://github.com/Monoga2025/e-block-site) · [cotizacion-william](https://github.com/Monoga2025/cotizacion-william) · [trycompai-crm-fork](https://github.com/Monoga2025/trycompai-crm-fork)
+
+**Coursework:** [unab-engineering-coursework](https://github.com/Monoga2025/unab-engineering-coursework) · [mechanics-quiz-toolkit](https://github.com/Monoga2025/mechanics-quiz-toolkit) · [cruz-ginebra-delivery](https://github.com/Monoga2025/cruz-ginebra-delivery) · [drawing-project](https://github.com/Monoga2025/drawing-project) · [design-assets](https://github.com/Monoga2025/design-assets)
 
 ## 🧰 Tech I use
 
