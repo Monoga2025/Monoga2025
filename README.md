@@ -7,7 +7,7 @@
 *Ingeniero en formación · Bucaramanga, Colombia 🇨🇴 · Español / English*
 
 ![Profile views](https://komarev.com/ghpvc/?username=Monoga2025&style=flat-square&color=blue)
-![Public repos](https://img.shields.io/badge/public_repos-35%2B-blue?style=flat-square)
+![Public repos](https://img.shields.io/badge/public_repos-35-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-AI_automation_%C2%B7_Mechatronics_%C2%B7_Full--stack-success?style=flat-square)
 
 </div>
@@ -32,14 +32,14 @@
 | **[Maral ERP + AI](https://github.com/Monoga2025/maral-erp-ai)** | ERP built for a Colombian tech company: quotes, production, inventory, DIAN invoicing, WhatsApp and AI assistants (briefing, OCR, voice-to-expense). Plus its [website](https://github.com/Monoga2025/maral-website). | TypeScript · Prisma · AI |
 | **[monoga-erp](https://github.com/Monoga2025/monoga-erp)** | Local-first ERP with an event-sales MVP. | Fastify · React |
 | **[Content verifier](https://github.com/Monoga2025/monoga-content-verifier)** | Rule-based verifier for video scripts, 90 tests passing. | Python |
-| **[Growth Studio](https://github.com/Monoga2025/growth-studio)** | Content engine, batch demo builder and AI receptionist core. | Python · Node |
+| **[Growth Studio](https://github.com/Monoga2025/growth-studio)** | Content engine and batch demo builder for growth automation. | Python · Node |
 | **[WhatsApp AI agent (ES)](https://github.com/Monoga2025/whatsapp-ai-agent-es)** | Open-source Spanish WhatsApp agent + automation pack for local businesses. | Evolution API · n8n · Redis |
 
 ## 🛠️ More projects
 
 **Engineering & CAD:** [fruit-sorter-design](https://github.com/Monoga2025/fruit-sorter-design) · [solidworks-com-automation](https://github.com/Monoga2025/solidworks-com-automation) · [MecaNote](https://github.com/Monoga2025/MecaNote) · [Circuitos](https://github.com/Monoga2025/Circuitos) · [monoga-misc](https://github.com/Monoga2025/monoga-misc)
 
-**Education:** 
+**Education:** [Circuitos](https://github.com/Monoga2025/Circuitos)
 
 **Business tools:** [odontologos](https://github.com/Monoga2025/odontologos) · [youtube-content-os](https://github.com/Monoga2025/youtube-content-os) · [agente-hostinger](https://github.com/Monoga2025/agente-hostinger) · [voice-monoga](https://github.com/Monoga2025/voice-monoga)
 
