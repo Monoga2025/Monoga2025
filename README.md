@@ -29,7 +29,7 @@
 | **[Maral ERP + AI](https://github.com/Monoga2025/maral-erp-ai)** | ERP built for a Colombian telecom company: quotes, production, inventory, DIAN invoicing, WhatsApp and AI assistants (briefing, OCR, voice-to-expense). Plus its [website](https://github.com/Monoga2025/maral-website). | TypeScript · Prisma · AI |
 | **[Hackatón Vibra Plus — Refugio Yesenia](https://github.com/Monoga2025/Hackaton-Vibra-Plus)** | Team project with Samuel Guzman: a WhatsApp "second brain" for an animal shelter in Bucaramanga, with biomedical monitoring and transparent QR donations. | Node · WhatsApp bot · Supabase |
 | **[Jarvis](https://github.com/Monoga2025/jarvis-assistant)** | Personal AI assistant on Telegram (WhatsApp channel experimental): coaching, finances, tasks and calendar, with hardened tool access. | TypeScript · OpenClaw · Telegram |
-| **[Loovo](https://github.com/Monoga2025/loovo)** | The business behind the CRM: AI sales automation for aesthetic and dental clinics, sales playbooks, n8n flows and a content machine. | n8n · TypeScript · Python |
+| **[Cuentas Claras](https://github.com/Monoga2025/asistente-financiero)** | Shared-finance assistant for two people: scan receipts with AI, split them item by item, track accounts and who owes whom. 28 backend tests passing. | Expo · React Native · FastAPI |
 
 ## 🛠️ More projects
 
@@ -39,7 +39,7 @@
 
 **Business tools:** [odontologos](https://github.com/Monoga2025/odontologos) · [youtube-content-os](https://github.com/Monoga2025/youtube-content-os) · [agente-hostinger](https://github.com/Monoga2025/agente-hostinger) · [voice-monoga](https://github.com/Monoga2025/voice-monoga)
 
-**More systems:** [monoga-erp](https://github.com/Monoga2025/monoga-erp) · [whatsapp-ai-agent-es](https://github.com/Monoga2025/whatsapp-ai-agent-es) · [growth-studio](https://github.com/Monoga2025/growth-studio) · [monoga-content-verifier](https://github.com/Monoga2025/monoga-content-verifier) · [jarvis-assistant](https://github.com/Monoga2025/jarvis-assistant) · [unab-os](https://github.com/Monoga2025/unab-os) · [monoga-agents-and-specs](https://github.com/Monoga2025/monoga-agents-and-specs) · [usa-expansion](https://github.com/Monoga2025/usa-expansion) · [grupomonoga-home](https://github.com/Monoga2025/grupomonoga-home) · [e-block-site](https://github.com/Monoga2025/e-block-site) · [trycompai-crm-fork](https://github.com/Monoga2025/trycompai-crm-fork)
+**More systems:** [loovo](https://github.com/Monoga2025/loovo) · [monoga-erp](https://github.com/Monoga2025/monoga-erp) · [whatsapp-ai-agent-es](https://github.com/Monoga2025/whatsapp-ai-agent-es) · [growth-studio](https://github.com/Monoga2025/growth-studio) · [monoga-content-verifier](https://github.com/Monoga2025/monoga-content-verifier) · [jarvis-assistant](https://github.com/Monoga2025/jarvis-assistant) · [unab-os](https://github.com/Monoga2025/unab-os) · [monoga-agents-and-specs](https://github.com/Monoga2025/monoga-agents-and-specs) · [usa-expansion](https://github.com/Monoga2025/usa-expansion) · [grupomonoga-home](https://github.com/Monoga2025/grupomonoga-home) · [e-block-site](https://github.com/Monoga2025/e-block-site) · [trycompai-crm-fork](https://github.com/Monoga2025/trycompai-crm-fork)
 
 **Coursework:** [unab-engineering-coursework](https://github.com/Monoga2025/unab-engineering-coursework) · [cruz-ginebra-delivery](https://github.com/Monoga2025/cruz-ginebra-delivery) · [design-assets](https://github.com/Monoga2025/design-assets)
 
