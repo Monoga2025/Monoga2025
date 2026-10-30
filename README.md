@@ -35,11 +35,11 @@
 
 **Engineering & CAD:** [fruit-sorter-design](https://github.com/Monoga2025/fruit-sorter-design) · [solidworks-com-automation](https://github.com/Monoga2025/solidworks-com-automation) · [MecaNote](https://github.com/Monoga2025/MecaNote) · [Circuitos](https://github.com/Monoga2025/Circuitos) · [monoga-misc](https://github.com/Monoga2025/monoga-misc)
 
-**Education:** [Circuitos](https://github.com/Monoga2025/Circuitos)
+**Education:** [Ratón Ingeniero (3D tutor)](https://github.com/Monoga2025/tutor-mecatronica) · [Circuitos](https://github.com/Monoga2025/Circuitos)
 
 **Business tools:** [odontologos](https://github.com/Monoga2025/odontologos) · [youtube-content-os](https://github.com/Monoga2025/youtube-content-os) · [agente-hostinger](https://github.com/Monoga2025/agente-hostinger) · [voice-monoga](https://github.com/Monoga2025/voice-monoga)
 
-**More systems:** [jarvis-assistant](https://github.com/Monoga2025/jarvis-assistant) · [unab-os](https://github.com/Monoga2025/unab-os) · [monoga-agents-and-specs](https://github.com/Monoga2025/monoga-agents-and-specs) · [usa-expansion](https://github.com/Monoga2025/usa-expansion) · [grupomonoga-home](https://github.com/Monoga2025/grupomonoga-home) · [e-block-site](https://github.com/Monoga2025/e-block-site) · [trycompai-crm-fork](https://github.com/Monoga2025/trycompai-crm-fork)
+**More systems:** [monoga-erp](https://github.com/Monoga2025/monoga-erp) · [whatsapp-ai-agent-es](https://github.com/Monoga2025/whatsapp-ai-agent-es) · [growth-studio](https://github.com/Monoga2025/growth-studio) · [monoga-content-verifier](https://github.com/Monoga2025/monoga-content-verifier) · [jarvis-assistant](https://github.com/Monoga2025/jarvis-assistant) · [unab-os](https://github.com/Monoga2025/unab-os) · [monoga-agents-and-specs](https://github.com/Monoga2025/monoga-agents-and-specs) · [usa-expansion](https://github.com/Monoga2025/usa-expansion) · [grupomonoga-home](https://github.com/Monoga2025/grupomonoga-home) · [e-block-site](https://github.com/Monoga2025/e-block-site) · [trycompai-crm-fork](https://github.com/Monoga2025/trycompai-crm-fork)
 
 **Coursework:** [unab-engineering-coursework](https://github.com/Monoga2025/unab-engineering-coursework) · [cruz-ginebra-delivery](https://github.com/Monoga2025/cruz-ginebra-delivery) · [design-assets](https://github.com/Monoga2025/design-assets)
 
